@@ -14,8 +14,7 @@ While this is going to be a big change for professional coffee tasters, it means
 The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
 * producers
-* roasters[](https://splendorous-kataifi-ec4757.netlify.app/)\
-  <https://splendorous-kataifi-ec4757.netlify.app/>
+* https://reachat.org/?94549995d2f6a24f1b1e73361727c4a8,300,20,1
 * importers/exporters
 * retailers
 * manufacturers
