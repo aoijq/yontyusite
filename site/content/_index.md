@@ -1,7 +1,7 @@
 ---
 title: 四中連合軍
 subtitle: 四中生徒による生徒Community
-image: https://reachat.org/?94549995d2f6a24f1b1e73361727c4a8,300,20,1
+image: img/about-direct-sourcing.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
